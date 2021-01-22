@@ -1,4 +1,4 @@
-#ai project grp 2
+
 import pyttsx3  # text - speech conversion library
 import datetime
 import speech_recognition as sr
