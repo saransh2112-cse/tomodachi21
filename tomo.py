@@ -54,7 +54,7 @@ def takeCommand():
 
 if __name__ == "__main__":
     speak('I am  your virtual assistant')
-    speak('I have been made by Group 2')
+    speak('I have been made by Saransh Gupta')
     wishMe()
 
     while True:
